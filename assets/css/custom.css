@@ -1,0 +1,10 @@
+* {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif !important;
+  font-weight: 400 !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+}
+
+h1, h2, h3, h4, h5, h6, strong, b {
+  font-weight: 700 !important;
+}
