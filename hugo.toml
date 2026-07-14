@@ -1,4 +1,4 @@
-baseURL = 'https://winwillwith.github.io/win-hp/'
+baseURL = '/'
 title = "株式会社WiN"
 author = "Kosuke Nakamura"
 locale = "ja-jp"
