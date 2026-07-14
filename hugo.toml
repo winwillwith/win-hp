@@ -21,6 +21,7 @@ hasCJKLanguage = true
 showBlog = true
 mainSections = ['blog']
 googleFonts = true
+showSlider = true
 
   [params.logo]
   main = "img/logo/logo.svg"
@@ -148,6 +149,9 @@ series = "series"
   [[module.mounts]]
   source = 'assets'
   target = 'assets'
+  [[module.mounts]]
+  source = 'static'
+  target = 'static'
   [[module.mounts]]
   disableWatch = true
   source = 'hugo_stats.json'
