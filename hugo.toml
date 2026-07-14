@@ -1,14 +1,12 @@
 baseURL = 'https://winwillwith.github.io/win-hp/'
-title = "Tella"
-author = "username"
+title = "株式会社WiN"
+author = "Kosuke Nakamura"
 locale = "ja-jp"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
-
-# Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
+hasCJKLanguage = true
 
 [services]
   [services.googleAnalytics]
@@ -33,7 +31,7 @@ googleFonts = true
   size = "h-14"
 
   [params.site]
-  name = "Tella"
+  name = "WiN Co., Ltd."
 
   [params.icon]
   # If you want to use FontAwesome, set this parameter to true.
@@ -78,38 +76,37 @@ googleFonts = true
 [menu]
   [[menu.main]]
   identifier = "products"
-  name = "Products"
+  name = "代表挨拶"
   url = "/products/"
   weight = 1
 
   [[menu.main]]
   identifier = "blog"
-  name = "Blog"
+  name = "ニュース"
   url = "/blog/"
   weight = 2
 
   [[menu.main]]
   identifier = "about"
-  name = "About"
+  name = "会社概要"
   url = "/about/"
   weight = 3
 
   [[menu.main]]
   identifier = "contact"
-  name = "Contact"
+  name = "お問い合わせ"
   url = "/contact/"
   weight = 4
 
   # Footer Menu
   [[menu.footer]]
-  name = "Home"
+  name = "ホーム"
   url = "/"
   weight = 1
 
   [[menu.footer]]
-  name = "Github"
-  url = "https://github.com/opera7133/tella"
-  #pre = "<i class='bi bi-github text-2xl'></i>"
+  name = "会社概要"
+  url = "/about/"
   weight = 2
 
 [taxonomies]
