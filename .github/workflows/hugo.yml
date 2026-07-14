@@ -31,7 +31,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22' # Node.js 22 に変更することで、--permission オプションを正しく解釈させます
 
       - name: Install Hugo CLI
         run: |
@@ -54,7 +54,6 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          NODE_OPTIONS: "--no-warnings" # Node.jsのセキュリティ警告によるエラーを防ぐ魔法の1行
         run: |
           hugo \
             --gc \
