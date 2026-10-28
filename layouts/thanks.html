@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="flex flex-col items-center justify-center min-h-[60vh] text-center px-4 py-16">
+    <!-- チェックマークのアイコン -->
+    <div class="flex items-center justify-center w-16 h-16 mb-6 rounded-full border-2 border-green-500 text-green-500">
+        <svg class="w-8 h-8" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+        </svg>
+    </div>
+
+    <!-- 見出しとメッセージ -->
+    <h1 class="text-3xl font-bold mb-3">送信完了</h1>
+    <p class="text-gray-600 mb-8">お問い合わせ内容の送信が正常に完了しました。</p>
+
+    <!-- トップへ戻るボタン -->
+    <a href="/" class="inline-flex items-center px-6 py-3 text-sm font-medium text-white bg-gray-800 rounded transition-colors hover:bg-gray-700">
+        トップページへ戻る
+    </a>
+</div>
+{{ end }}
