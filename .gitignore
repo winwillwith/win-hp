@@ -1,2 +1,18 @@
-public/
-public/
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Hugo build output
+/public/
+/resources/_gen/
+hugo_stats.json
+
+# IDE / Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
