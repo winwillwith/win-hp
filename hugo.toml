@@ -108,7 +108,7 @@ showSlider = true
 
   [[menu.footer]]
   name = "プライバシーポリシー"
-  url = "/privacy-policy/"
+  url = "/privacy/"
   weight = 2
 
 [taxonomies]
