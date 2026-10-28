@@ -1,5 +1,5 @@
 ---
-title: "会社概要・代表挨拶"
+title: "代表挨拶"
 layout: "greeting"
 ---
 
