@@ -1,10 +1,19 @@
 ---
-title: "Example Project"
-date: 2020-06-23T12:33:45+10:00
-draft: false
-featured: true
-weight: 1
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel.
+title: "会社概要・代表挨拶"
+layout: "greeting"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.
+## 代表挨拶
+
+**理想を共につくり、未来へ挑むパートナーとして**
+
+時代がどれだけ便利になっても、私たちが真に思い描く未来というのは、そう簡単に手が届くものではありません。
+
+だからこそ株式会社WiNは、働き方から暮らしに至るまでの多様な課題解決を通じて、関わる一人ひとりの「理想」をカタチにするパートナーであり続けたいと考えています。
+
+私たちの根底にあるのは、「三方よし」の精神です。お客様、取引先様、そして社会全体といったすべての人々と「WIN-WIN」の関係性を築き、共に豊かさを分かち合える新しい未来を創り出すことこそが、当社のミッションです。
+
+関わるすべての人々とともに成長し、持続的な発展を目指して情熱を持って挑み続けてまいります。
+
+株式会社WiN  
+代表取締役 中村幸資
