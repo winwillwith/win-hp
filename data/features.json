@@ -1,18 +1,17 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "bi bi-box"
+    "title": "営業代行",
+    "description": "実店舗・ECの集客サポートから、マーケティング視点を活かした売上向上施策の伴走まで、貴社の事業成長をともに目指すパートナーとして支援",
+    "icon": "bi bi-graph-up-arrow"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
-    "icon": "bi bi-lightning-charge"
+    "title": "ライフスタイルサポート",
+    "description": "一人ひとりの理想のライフスタイルに向け、住まいやキャリアのご相談から、必要なご紹介先までをトータルサポート",
+    "icon": "bi bi-building"
   },
   {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "link": "https://github.com/opera7133/tella",
-    "icon": "bi bi-github"
+    "title": "イベントプロデュース",
+    "description": "デジタル化が進む現代に、リアルな横の繋がりを生み出すミートアップをプロデュース。20代・若手層に向けた質の高い交流の場を創出",
+    "icon": "bi bi-globe"
   }
 ]

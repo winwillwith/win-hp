@@ -1,10 +1,11 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
+    "subtitle": "いつの時代も未来を動かすのは、<br>あなたの「理想」をカタチにすること。<br>株式会社WiNは、<br>働き方から暮らしまでを支える課題解決で、<br>共に豊かさを分かち合い、<br>発展していくパートナーです。",
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Sample text here...",
+    "title": "ミッション",
+    "subtitle": "「三方よし」をもとに、<br>関わるすべての人々と<br>WIN-WINの関係性を築き、<br>新しい価値と発展を創り続けること",
     "image": "img/slide/slide02.jpg",
     "color": "text-black"
   }
