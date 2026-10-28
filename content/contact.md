@@ -1,7 +1,7 @@
 ---
-title: 'Contact'
+title: 'お問い合わせ'
 ---
 
-To contact us, please fill out the form below.
+以下のフォームに各項目をご入力の上、送信してください。
 
 {{< form >}}
