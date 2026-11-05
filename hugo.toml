@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://winwillwith.com/'
 title = "株式会社WiN"
 author = "Kosuke Nakamura"
 locale = "ja-jp"
