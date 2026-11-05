@@ -26,14 +26,14 @@ showSlider = true
 
   [params.logo]
   main = "img/logo/logo.svg"
-  alt = "Tella Logo"
+  alt = "株式会社WiN"
 
   # The size parameter is the class name of tailwindcss
   # https://tailwindcss.com/
   size = "h-14"
 
   [params.site]
-  name = "WiN Co., Ltd."
+  name = "株式会社WiN"
 
   [params.icon]
   # If you want to use FontAwesome, set this parameter to true.
@@ -49,15 +49,15 @@ showSlider = true
   # services = ["twitter", "mastodon", "facebook", "line", "linkedin", "whatsapp", "mail", "copy"]
 
   [params.homepage_meta_tags]
-  meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-  meta_og_title = "Tella"
+  meta_description = "株式会社WiNのコーポレートサイトです。"
+  meta_og_title = "株式会社WiN"
   meta_og_type = "website"
-  meta_og_url = "https://tella.pages.dev"
-  meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-  meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+  meta_og_url = "https://winwillwith.com/"
+  meta_og_image = "https://winwillwith.com/img/logo/logo.png"
+  meta_og_description = "株式会社WiNのコーポレートサイトです。"
   meta_twitter_card = "summary_large_image"
-  meta_twitter_site = "@username"
-  meta_twitter_creator = "@username"
+  # meta_twitter_site = "@username"
+  # meta_twitter_creator = "@username"
 
   [params.giscus]
   # Giscus Comment System
