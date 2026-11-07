@@ -58,7 +58,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://winwillwith.github.io/win-hp/"   
+            --baseURL "https://winwillwith.com/"   
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
